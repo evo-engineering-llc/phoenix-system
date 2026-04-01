@@ -1,8 +1,13 @@
-# phoenix-system
+# Phoenix System
+
+Part of **Evo Engineering**  
+https://www.evo.engineering/
+
+Composite blade conversion system for wind turbine disposal and material recovery.
+
+Designed as a modular industrial process for converting end-of-life composite materials into usable outputs.
 Phoenix — Composite Blade Conversion System
-
-A structured industrial system for converting wind turbine blade waste into usable material outputs.
-
+Phoenix applies Evo Engineering system logic to industrial-scale material conversion and infrastructure workflows.
 ---
 
 Overview
